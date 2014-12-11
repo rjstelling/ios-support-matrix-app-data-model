@@ -85,7 +85,7 @@ Field names are of the format: `words_seperated_by_underscores`.
 ####3.2.12 `os_versions`
 **Type:** ARRAY
 
-An array of dictionaries containing the following feilds:
+An array of dictionaries containing the following fields:
 
 #####3.2.12.1 `version_name`
 **Type:** STRING
@@ -123,19 +123,21 @@ An array of dictionaries containing the following feilds:
 **Values:** *TODO*
 
 ####3.2.14 `geekbench_v3_single_core`
-**Type:** NUMBER
+**Type:** NUMBER | null
 
 **Values:** *TODO*
 
 ####3.2.15 `geekbench_v3_multi_core`
-**Type:** NUMBER
+**Type:** NUMBER | null
 
 **Values:** *TODO*
+
+**Notes:** Can be `null` if no data is available.
 
 ####3.2.16 `capabilities`
 **Type:** ARRAY
 
-An array of dictionaries containing the following feilds:
+An array of dictionaries containing the following fields:
 
 #####3.2.16.1 `capability`
 **Type:** STRING

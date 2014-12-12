@@ -163,7 +163,7 @@
 		  "suffix": "px"
 	  },
 	  {
-		  "metric": "Retina-ness",
+		  "metric": "Display Quality",
 		  "value": 1,
 		  "prefix": "@",
 		  "suffix": "x"

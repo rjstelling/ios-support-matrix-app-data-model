@@ -7,12 +7,6 @@
   "device_model_ids": [
     "A1203"
   ],
-  "storage": [
-    4,
-    8,
-    16
-  ],
-  "ram": "128MB",
   "colours": [
     "black"
   ],
@@ -122,6 +116,78 @@
         "802.11g"
       ]
     }
+  ],
+  "metrics": [
+	  {
+		  "metric": "Processor",
+		  "value": 413,
+		  "suffix": "Mhz"
+	  },
+	  {
+		  "metric": "RAM",
+		  "value": 128,
+		  "suffix": "MB"
+	  },
+	  {
+		  "metric": "Storage",
+		  "value": [
+			  4,
+			  8,
+			  16
+		  ],
+		  "suffix" : "GB"
+	  },
+	  {
+		  "metric": "Rear Camera",
+		  "value": 2,
+		  "suffix": "MP"
+	  },
+	  {
+		  "metric": "Screen width",
+		  "value": 320,
+		  "suffix": "pt"
+	  },
+	  {
+		  "metric": "Screen height",
+		  "value": 480,
+		  "suffix": "pt"
+	  },
+	  {
+		  "metric": "Screen width (actual)",
+		  "value": 320,
+		  "suffix": "px"
+	  },
+	  {
+		  "metric": "Screen height (actual)",
+		  "value": 480,
+		  "suffix": "px"
+	  },
+	  {
+		  "metric": "Retina-ness",
+		  "value": 1,
+		  "prefix": "@",
+		  "suffix": "x"
+	  },
+	  {
+		  "metric": "Width",
+		  "value": 61,
+		  "suffix": "mm"
+	  },
+	  {
+		  "metric": "Height",
+		  "value": 115,
+		  "suffix": "mm"
+	  },
+	  {
+		  "metric": "Depth",
+		  "value": 11.6,
+		  "suffix": "mm"
+	  },
+	  {
+		  "metric": "Battery",
+		  "value": 1400,
+		  "suffix": "mAh"
+	  }
   ],
   "notes": "extra info",
   "last_updated": "2014-10-19T23:45:00+00:00"

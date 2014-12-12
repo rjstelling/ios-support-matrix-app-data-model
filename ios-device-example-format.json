@@ -87,8 +87,8 @@
     }
   ],
   "geekbench_v2_score": 136,
-  "geekbench_v3_single_core": -1,
-  "geekbench_v3_multi_core": -1,
+  "geekbench_v3_single_core": null,
+  "geekbench_v3_multi_core": null,
   "capabilities": [
     {
       "capability": "accelerometer"

@@ -20,8 +20,6 @@
   "architecture": "armv6",
   "device_launch_date": "2007-01-07",
   "device_discontinued_date": "2007-07-01",
-  "min_ios_version": 1000,
-  "max_ios_version": 3130,
   "os_versions": [
     {
       "version_name": "1.0",

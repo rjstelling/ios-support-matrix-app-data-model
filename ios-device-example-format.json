@@ -143,44 +143,44 @@
       "value": 2
     },
     {
-      "metric": "Screen width",
       "suffix": "pt",
+      "metric": "Logical Screen Width",
       "value": 320
     },
     {
-      "metric": "Screen height",
       "suffix": "pt",
+      "metric": "Logical Screen Height",
       "value": 480
     },
     {
-      "metric": "Screen width (actual)",
       "suffix": "px",
+      "metric": "Physical Screen Width",
       "value": 320
     },
     {
-      "metric": "Screen height (actual)",
       "suffix": "px",
+      "metric": "Physical Screen Height",
       "value": 480
     },
     {
-      "metric": "Display Quality",
       "prefix": "@",
       "suffix": "x",
+      "metric": "Scale",
       "value": 1
     },
     {
-      "metric": "Width",
       "suffix": "mm",
+      "metric": "Device Width",
       "value": 61
     },
     {
-      "metric": "Height",
       "suffix": "mm",
+      "metric": "Device Height",
       "value": 115
     },
     {
-      "metric": "Depth",
       "suffix": "mm",
+      "metric": "Device Depth",
       "value": 11.6
     },
     {

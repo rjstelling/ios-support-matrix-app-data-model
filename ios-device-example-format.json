@@ -120,17 +120,17 @@
   "metrics": [
     {
       "metric": "Processor",
-      "suffix": "Mhz",
+      "unit": "Mhz",
       "value": 413
     },
     {
       "metric": "RAM",
-      "suffix": "MB",
+      "unit": "MB",
       "value": 128
     },
     {
       "metric": "Storage",
-      "suffix": "GB",
+      "unit": "GB",
       "value": [
         4,
         8,
@@ -139,53 +139,51 @@
     },
     {
       "metric": "Rear Camera",
-      "suffix": "MP",
+      "unit": "MP",
       "value": 2
     },
     {
-      "suffix": "pt",
       "metric": "Logical Screen Width",
+      "unit": "pt",
       "value": 320
     },
     {
-      "suffix": "pt",
       "metric": "Logical Screen Height",
+      "unit": "pt",
       "value": 480
     },
     {
-      "suffix": "px",
       "metric": "Physical Screen Width",
+      "unit": "px",
       "value": 320
     },
     {
-      "suffix": "px",
       "metric": "Physical Screen Height",
+      "unit": "px",
       "value": 480
     },
     {
-      "prefix": "@",
-      "suffix": "x",
       "metric": "Scale",
       "value": 1
     },
     {
-      "suffix": "mm",
       "metric": "Device Width",
+      "unit": "mm",
       "value": 61
     },
     {
-      "suffix": "mm",
       "metric": "Device Height",
+      "unit": "mm",
       "value": 115
     },
     {
-      "suffix": "mm",
       "metric": "Device Depth",
+      "unit": "mm",
       "value": 11.6
     },
     {
       "metric": "Battery",
-      "suffix": "mAh",
+      "unit": "mAh",
       "value": 1400
     }
   ],

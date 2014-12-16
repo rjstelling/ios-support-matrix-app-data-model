@@ -185,6 +185,11 @@
       "metric": "Battery",
       "unit": "mAh",
       "value": 1400
+    },
+    {
+      "metric": "CPU Die Size",
+      "unit": "nm",
+      "value": 32,
     }
   ],
   "notes": "extra info",

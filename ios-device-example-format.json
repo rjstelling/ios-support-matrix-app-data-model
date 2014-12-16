@@ -84,36 +84,11 @@
   "geekbench_v3_single_core": null,
   "geekbench_v3_multi_core": null,
   "capabilities": [
-    {
-      "capability": "accelerometer"
-    },
-    {
-      "capability": "location_services"
-    },
-    {
-      "capability": "microphone"
-    },
-    {
-      "capability": "open_gl_es",
-      "value": 1
-    },
-    {
-      "capability": "sms"
-    },
-    {
-      "capability": "still_camera",
-      "value": 2
-    },
-    {
-      "capability": "telephony"
-    },
-    {
-      "capability": "wifi",
-      "value": [
-        "802.11b",
-        "802.11g"
-      ]
-    }
+	  "accelerometer",
+	  "location_services",
+	  "microphone",
+	  "sms",
+	  "telephony"
   ],
   "metrics": [
     {

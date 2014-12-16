@@ -7,12 +7,6 @@
   "device_model_ids": [
     "A1203"
   ],
-  "storage": [
-    4,
-    8,
-    16
-  ],
-  "ram": "128MB",
   "colours": [
     "black"
   ],
@@ -119,6 +113,81 @@
         "802.11b",
         "802.11g"
       ]
+    }
+  ],
+  "metrics": [
+    {
+      "metric": "Processor",
+      "unit": "Mhz",
+      "value": 413
+    },
+    {
+      "metric": "RAM",
+      "unit": "MB",
+      "value": 128
+    },
+    {
+      "metric": "Storage",
+      "unit": "GB",
+      "value": [
+        4,
+        8,
+        16
+      ]
+    },
+    {
+      "metric": "Rear Camera",
+      "unit": "MP",
+      "value": 2
+    },
+    {
+      "metric": "Logical Screen Width",
+      "unit": "pt",
+      "value": 320
+    },
+    {
+      "metric": "Logical Screen Height",
+      "unit": "pt",
+      "value": 480
+    },
+    {
+      "metric": "Physical Screen Width",
+      "unit": "px",
+      "value": 320
+    },
+    {
+      "metric": "Physical Screen Height",
+      "unit": "px",
+      "value": 480
+    },
+    {
+      "metric": "Scale",
+      "value": 1
+    },
+    {
+      "metric": "Device Width",
+      "unit": "mm",
+      "value": 61
+    },
+    {
+      "metric": "Device Height",
+      "unit": "mm",
+      "value": 115
+    },
+    {
+      "metric": "Device Depth",
+      "unit": "mm",
+      "value": 11.6
+    },
+    {
+      "metric": "Battery",
+      "unit": "mAh",
+      "value": 1400
+    },
+    {
+      "metric": "CPU Die Size",
+      "unit": "nm",
+      "value": 32,
     }
   ],
   "notes": "extra info",

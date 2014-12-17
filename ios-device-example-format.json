@@ -84,11 +84,11 @@
   "geekbench_v3_single_core": null,
   "geekbench_v3_multi_core": null,
   "capabilities": [
-	  "accelerometer",
-	  "location_services",
-	  "microphone",
-	  "sms",
-	  "telephony"
+    "accelerometer",
+    "location_services",
+    "microphone",
+    "sms",
+    "telephony"
   ],
   "metrics": [
     {
@@ -162,7 +162,7 @@
     {
       "metric": "CPU Die Size",
       "unit": "nm",
-      "value": 32,
+      "value": 32
     }
   ],
   "notes": "extra info",

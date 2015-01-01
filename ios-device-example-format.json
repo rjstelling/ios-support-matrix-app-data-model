@@ -1,6 +1,7 @@
 {
   "device_record_uuid": "6ADD8225-0FD2-4D5D-B447-14C8A33AFE50",
-  "product_name": "iPhone",
+  "device_product_name": "iPhone",
+  "device_code_name": "M68",
   "device_model_strings": [
     "iPhone1,1"
   ],
